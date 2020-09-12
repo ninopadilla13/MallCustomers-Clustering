@@ -1,0 +1,2 @@
+# MallCustomers-Clustering
+The Mall customers dataset contains information about people visiting a mall. The dataset contains the columns (1) gender,  (2) customer id, (3) age,  (4) annual income, and (5) spending score. This notebook aims to segment the customers based on  their the relevant features that would be detected. Customer segmentation is useful in marketing because it helps divide  customers based on the similarities of the clusters. 
